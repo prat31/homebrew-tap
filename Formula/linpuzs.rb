@@ -8,8 +8,8 @@ class Linpuzs < Formula
 
   desc "Solves LinkedIn's daily puzzles on your Android phone over ADB"
   homepage "https://github.com/prat31/linkedin-puzzles-solver"
-  url "https://files.pythonhosted.org/packages/04/2a/768415fb9db8018787da43d2f25d38c098368747f361edc24b8a034326ce/linpuzs-0.3.0.tar.gz"
-  sha256 "416ffa062c882fa550038ee92aeade48a56ca865a02aa81818e7951852380182"
+  url "https://files.pythonhosted.org/packages/a0/17/a84b6b6c3b6ec04fb22247c53a11ca8003fb710b622db15c4b899c460daf/linpuzs-0.4.0.tar.gz"
+  sha256 "da43a02d41dde2687a88697c785858b07b4b7ea69983b17bfc2a3c96c275208b"
   license "MIT"
 
   # Prebuilt by Homebrew, so they aren't compiled from source as resources.
